@@ -11224,12 +11224,12 @@ textarea.form-control {
 }
 
 .navbar.custom-navbar .nav-link {
-  color: #fff;
+  color: #000;
   margin: 0 6px;
 }
 
 .navbar.custom-navbar .nav-link:hover {
-  color: #fff;
+  color: #ff6e42;
 }
 
 .navbar.custom-navbar.affix {
@@ -11422,7 +11422,7 @@ textarea.form-control {
   position: relative;
   height: 120vh;
   min-height: 500px;
-  background: url(../imgs/tables/epoxy_table1.jpg) no-repeat center center fixed;
+  background: url(../imgs/other/iw-logo2.jpg) no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
   display: block;
